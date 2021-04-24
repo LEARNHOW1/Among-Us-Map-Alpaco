@@ -22,4 +22,4 @@ Creator: LEARHOW#1111 ([YouTube](https://youtube.com/learnhow10) [Discord](https
 
 Helpers: peasplayer
 
-Website Coder: Boss_GamerYT#0001 ([YouTube](https://www.youtube.com/channel/UCrxmzQfOX3T9LRIHkh9Jglw) [Twitter](https://twitter.com/BossGamerYT8) [Discord](https://discord.gg/MYZHrNyy8t))
+Website Coder: Boss_GamerYT#0001 ([YouTube](https://www.youtube.com/channel/UCrxmzQfOX3T9LRIHkh9Jglw) [Twitter](https://twitter.com/BossGamerYT8))
