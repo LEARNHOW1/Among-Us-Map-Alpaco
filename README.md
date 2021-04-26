@@ -1,16 +1,15 @@
-**Welcome to the [Alpaco](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco) map by Learn How**
+**Welcome to the Map of Impostors [Alpaco](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco) map by Learn How**
 
 
 | Version:  |Release:   |
 | ------------ | -------|
-| v2021.4.12s  | 1.4  |
-
+| v2021.4.12s & v2021.4.14s  | 1.6  |
+| v2021.4.12s  | v1.4  | 
 
 
 **Preview**:
 
 ![Preview](https://cdn.discordapp.com/attachments/805550045545365544/835224913060036618/unknown.png)
-
 **Map Icon:**
 
 ![Map Icon](https://cdn.discordapp.com/attachments/805550045545365544/835225502561992754/wAttM2C5QvVAAAAABJRU5ErkJggg.png)
