@@ -10,6 +10,7 @@
 **Preview**:
 
 ![Preview](https://cdn.discordapp.com/attachments/805550045545365544/835224913060036618/unknown.png)
+
 **Map Icon:**
 
 ![Map Icon](https://cdn.discordapp.com/attachments/805550045545365544/835225502561992754/wAttM2C5QvVAAAAABJRU5ErkJggg.png)
