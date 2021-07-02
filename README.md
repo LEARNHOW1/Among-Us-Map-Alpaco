@@ -1,10 +1,9 @@
 **Welcome to the Map of Impostors [Alpaco](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco) map by Learn How**
 
 
-| Version:  |Release:   |
-| ------------ | -------|
-| v2021.4.12s & v2021.4.14s  | v1.6  |
-| v2021.4.12s  | v1.4  | 
+| Versions:                     | Release:   |
+| ------------                  |     -------|
+  v2021.6.15s & v2021.6.15e     |[Here](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco/releases/download/v2.1/Alpaco.v2.1.zip) |
 
 
 **Preview**:
@@ -21,9 +20,9 @@
 Made with Level Imposer
 And coded with Bepinex and [Reactor](https://docs.reactor.gg)
 
-Creator: LEARHOW#1111 ([YouTube](https://youtube.com/learnhow10) [Discord](https://discord.gg/yTD3EH7jB2))
+Creator: DaNOOB#1583 ([YouTube](https://youtube.com/learnhow10) [Discord](https://discord.gg/ypf3mXQu8p))
 
-Helpers: peasplayer
+Helped: Peasplayer#2541
 
-Website Coder: Boss_GamerYT#0001 ([YouTube](https://www.youtube.com/channel/UCrxmzQfOX3T9LRIHkh9Jglw) [Twitter](https://twitter.com/BossGamerYT8))
+
 
