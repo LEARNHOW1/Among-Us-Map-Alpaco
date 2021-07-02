@@ -22,3 +22,6 @@ Creator: DaNOOB#1583 ([YouTube](https://youtube.com/learnhow10) [Discord](https:
 Made with Level Imposer
 And coded with Bepinex and [Reactor](https://docs.reactor.gg)
 Helped: Peasplayer#2541
+
+
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
