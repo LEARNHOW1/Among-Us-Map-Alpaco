@@ -5,7 +5,7 @@ Creator: DaNOOB#1583 ([YouTube](https://youtube.com/learnhow10) [Discord](https:
 
 | Versions:                     | Release:   |
 | ------------                  |     -------|
-  v2021.6.15s & v2021.6.15e     |[Here](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco/releases/download/v2.1/Alpaco.v2.1.zip) |
+  v2021.6.15s & v2021.6.15e     |[Download](https://github.com/LEARNHOW1/Among-Us-Map-Alpaco/releases/download/v2.1/Alpaco.v2.1.zip) |
 
 
 **Preview**:
